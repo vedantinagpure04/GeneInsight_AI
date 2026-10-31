@@ -1,0 +1,143 @@
+GENEINSIGHT AI - GENE INSIGHTS REPORT
+==================================================
+
+Gene: COL10A1
+Gene Name: collagen type X alpha 1 chain
+Expression: Higher expression in cancer samples
+FDR: 1.302e-32
+Significance: Statistically significant
+Biological Role: Collagen protein involved in extracellular matrix formation.
+--------------------------------------------------
+Gene: NECTIN4
+Gene Name: nectin cell adhesion molecule 4
+Expression: Higher expression in cancer samples
+FDR: 9.483e-26
+Significance: Statistically significant
+Biological Role: Cell adhesion molecule involved in cell-to-cell interactions.
+--------------------------------------------------
+Gene: RAB15
+Gene Name: RAB15, member RAS oncogene family
+Expression: Higher expression in cancer samples
+FDR: 1.846e-22
+Significance: Statistically significant
+Biological Role: Protein involved in intracellular vesicle transport.
+--------------------------------------------------
+Gene: GTF2IRD2
+Gene Name: GTF2I repeat domain containing 2
+Expression: Higher expression in cancer samples
+FDR: 8.755e-22
+Significance: Statistically significant
+Biological Role: Protein associated with transcriptional regulation.
+--------------------------------------------------
+Gene: FBXL16
+Gene Name: F-box and leucine rich repeat protein 16
+Expression: Higher expression in cancer samples
+FDR: 8.755e-22
+Significance: Statistically significant
+Biological Role: Protein containing an F-box domain, associated with protein regulation.
+--------------------------------------------------
+Gene: MMP11
+Gene Name: matrix metallopeptidase 11
+Expression: Higher expression in cancer samples
+FDR: 3.278e-21
+Significance: Statistically significant
+Biological Role: Matrix metalloproteinase involved in extracellular matrix remodeling.
+--------------------------------------------------
+Gene: FGFR3
+Gene Name: fibroblast growth factor receptor 3
+Expression: Higher expression in cancer samples
+FDR: 2.088e-20
+Significance: Statistically significant
+Biological Role: Receptor involved in fibroblast growth factor signaling.
+--------------------------------------------------
+Gene: HELLS
+Gene Name: helicase, lymphoid-specific
+Expression: Higher expression in cancer samples
+FDR: 2.088e-20
+Significance: Statistically significant
+Biological Role: Chromatin remodeling protein involved in DNA regulation.
+--------------------------------------------------
+Gene: RSPH1
+Gene Name: radial spoke head 1 homolog
+Expression: Higher expression in cancer samples
+FDR: 2.896e-20
+Significance: Statistically significant
+Biological Role: Protein associated with ciliary structure and function.
+--------------------------------------------------
+Gene: TRIM45
+Gene Name: tripartite motif containing 45
+Expression: Higher expression in cancer samples
+FDR: 5.825e-20
+Significance: Statistically significant
+Biological Role: Protein associated with cellular signaling and regulation.
+--------------------------------------------------
+Gene: LOC100506123///LOC100506076
+Gene Name: uncharacterized LOC100506123///uncharacterized LOC100506076
+Expression: Higher expression in cancer samples
+FDR: 1.005e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: IGSF9
+Gene Name: immunoglobulin superfamily member 9
+Expression: Higher expression in cancer samples
+FDR: 1.483e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: KIFC2
+Gene Name: kinesin family member C2
+Expression: Higher expression in cancer samples
+FDR: 1.567e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: LRRC15
+Gene Name: leucine rich repeat containing 15
+Expression: Higher expression in cancer samples
+FDR: 2.314e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: CFAP44
+Gene Name: cilia and flagella associated protein 44
+Expression: Higher expression in cancer samples
+FDR: 4.829e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: CORO2A
+Gene Name: coronin 2A
+Expression: Higher expression in cancer samples
+FDR: 8.795e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: RAP1GAP
+Gene Name: RAP1 GTPase activating protein
+Expression: Higher expression in cancer samples
+FDR: 9.137e-19
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: FAM83D
+Gene Name: family with sequence similarity 83 member D
+Expression: Higher expression in cancer samples
+FDR: 3.641e-18
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: UBE2T
+Gene Name: ubiquitin conjugating enzyme E2 T
+Expression: Higher expression in cancer samples
+FDR: 4.029e-18
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------
+Gene: KCNK1
+Gene Name: potassium two pore domain channel subfamily K member 1
+Expression: Higher expression in cancer samples
+FDR: 4.100e-18
+Significance: Statistically significant
+Biological Role: Biological role requires further literature investigation.
+--------------------------------------------------

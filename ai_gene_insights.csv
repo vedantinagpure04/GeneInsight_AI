@@ -1,0 +1,21 @@
+Gene,Gene_Name,Mean_Difference,FDR,Expression_Pattern,Significance,Biological_Role
+COL10A1,collagen type X alpha 1 chain,3.5923767609960398,1.3017735375141504e-32,Higher expression in cancer samples,Statistically significant,Collagen protein involved in extracellular matrix formation.
+NECTIN4,nectin cell adhesion molecule 4,1.8649321363093883,9.483445923376091e-26,Higher expression in cancer samples,Statistically significant,Cell adhesion molecule involved in cell-to-cell interactions.
+RAB15,"RAB15, member RAS oncogene family",1.6786390538597291,1.8456978807442957e-22,Higher expression in cancer samples,Statistically significant,Protein involved in intracellular vesicle transport.
+GTF2IRD2,GTF2I repeat domain containing 2,2.1271589503659487,8.754878891885142e-22,Higher expression in cancer samples,Statistically significant,Protein associated with transcriptional regulation.
+FBXL16,F-box and leucine rich repeat protein 16,3.054368928384614,8.754878891885142e-22,Higher expression in cancer samples,Statistically significant,"Protein containing an F-box domain, associated with protein regulation."
+MMP11,matrix metallopeptidase 11,3.4047777578755647,3.278078068524912e-21,Higher expression in cancer samples,Statistically significant,Matrix metalloproteinase involved in extracellular matrix remodeling.
+FGFR3,fibroblast growth factor receptor 3,2.8189632265848408,2.0882289894962364e-20,Higher expression in cancer samples,Statistically significant,Receptor involved in fibroblast growth factor signaling.
+HELLS,"helicase, lymphoid-specific",2.110310588679866,2.0882289894962364e-20,Higher expression in cancer samples,Statistically significant,Chromatin remodeling protein involved in DNA regulation.
+RSPH1,radial spoke head 1 homolog,1.8621347982251173,2.8960570730218e-20,Higher expression in cancer samples,Statistically significant,Protein associated with ciliary structure and function.
+TRIM45,tripartite motif containing 45,2.124395065545815,5.825076215361486e-20,Higher expression in cancer samples,Statistically significant,Protein associated with cellular signaling and regulation.
+LOC100506123///LOC100506076,uncharacterized LOC100506123///uncharacterized LOC100506076,2.789247531343327,1.0054912605819091e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+IGSF9,immunoglobulin superfamily member 9,1.7021726698925335,1.4831081491050146e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+KIFC2,kinesin family member C2,1.8515676922929858,1.5665121901698448e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+LRRC15,leucine rich repeat containing 15,3.6399782894564487,2.3138049253365274e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+CFAP44,cilia and flagella associated protein 44,1.375960933580879,4.829377690915804e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+CORO2A,coronin 2A,1.3462979901923058,8.795458748064269e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+RAP1GAP,RAP1 GTPase activating protein,1.8468638465888025,9.136982461387821e-19,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+FAM83D,family with sequence similarity 83 member D,2.4751788655684392,3.6414100088266635e-18,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+UBE2T,ubiquitin conjugating enzyme E2 T,2.057001598964366,4.029295906060501e-18,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
+KCNK1,potassium two pore domain channel subfamily K member 1,1.9628893802483036,4.09978135284415e-18,Higher expression in cancer samples,Statistically significant,Biological role requires further literature investigation.
