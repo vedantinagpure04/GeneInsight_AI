@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+Try GeneInsight AI here:
+https://geneinsight-ai.streamlit.app
+
 GeneInsight AI 🧬
 
 AI-Based Breast Cancer Gene Expression Analysis
